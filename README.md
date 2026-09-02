@@ -4,7 +4,7 @@
 This project analyzes GPU resource waste patterns in the MIT SuperCloud cluster through exploratory data analysis (EDA).
 
 ## Dataset & Acknowledgments
-This project utilizes telemetry and scheduler data from the **MIT SuperCloud Dataset**, released as part of the following HPCA '22 publication:
+This project utilizes dcgm and scheduler data from the **MIT SuperCloud Dataset**, released as part of the following HPCA '22 publication:
 > **AI-Enabling Workloads on Large-Scale GPU-Accelerated System: Characterization, Opportunities, and Implications**  
 > Baolin Li, Rohin Arora, Siddharth Samsi, Tirthak Patel, et al.  
 > *2022 IEEE International Symposium on High-Performance Computer Architecture (HPCA)*
