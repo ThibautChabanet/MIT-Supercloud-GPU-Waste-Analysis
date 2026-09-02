@@ -1,0 +1,18 @@
+﻿# Exclude data folders
+1. Data/
+*.csv
+
+# Exclude large files
+*.xlsx
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
