@@ -6,7 +6,6 @@ This project analyzes GPU resource waste patterns in the MIT SuperCloud cluster 
 ## Key Findings
 - **43.71%** of GPU jobs exhibit phantom-load patterns (idle/inefficient)
 - **13.92%** of total energy is wasted on non-productive work
-- **61.5%** of reserved GPU hours are wasted (idle)
 - Top 20 problem nodes account for **54%** of all waste
 
 ## Methodology
