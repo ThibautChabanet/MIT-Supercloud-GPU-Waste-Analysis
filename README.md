@@ -33,8 +33,13 @@ This project utilizes telemetry and scheduler data from the **MIT SuperCloud Dat
 - Energy wasted: 370 kWh (13.92%)
 - Opportunity: Fix top 20 nodes to save 199 kWh
 
-### Citation
+### Next Steps
+- Cost & CO2 impact calculations
+- Job duration breakdown analysis
+- Partition-level analysis
+- Scheduling improvements recommendations
 
+### Citation
 If you use or reference this repository, please cite the original paper using the BibTeX entry below:
 
 ```bibtex
@@ -49,8 +54,3 @@ If you use or reference this repository, please cite the original paper using th
   doi={10.1109/HPCA53966.2022.00093}
 }
 
-## Next Steps
-- Cost & CO2 impact calculations
-- Job duration breakdown analysis
-- Partition-level analysis
-- Scheduling improvements recommendations
