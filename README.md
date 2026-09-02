@@ -3,6 +3,10 @@
 ## Overview
 This project analyzes GPU resource waste patterns in the MIT SuperCloud cluster through exploratory data analysis (EDA).
 
+## Data
+Analysis uses internal GPU metrics (DCGM) and scheduler metadata.
+*Data not included in repository per institutional policy.*
+
 ## Key Findings
 - **43.71%** of GPU jobs exhibit phantom-load patterns (idle/inefficient)
 - **13.92%** of total energy is wasted on non-productive work
@@ -20,10 +24,6 @@ This project analyzes GPU resource waste patterns in the MIT SuperCloud cluster 
 
 ## Contents
 - **Main.ipynb**: Complete EDA notebook with visualizations and analysis
-
-## Data
-Analysis uses internal GPU metrics (DCGM) and scheduler metadata.
-*Data not included in repository per institutional policy.*
 
 ## Results
 - Total analysis: 96,893 GPU job records
