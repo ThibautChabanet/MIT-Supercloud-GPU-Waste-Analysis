@@ -1,4 +1,4 @@
-# GPU Underutilization Candidate Analysis — MIT SuperCloud
+# GPU Underutilization Candidate Analysis using MITSuperCloud 
 
 ## Overview
 
